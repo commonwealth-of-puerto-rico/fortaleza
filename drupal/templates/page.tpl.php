@@ -1,10 +1,10 @@
 <div class="mobile_nav" align="center" style="position:relative; margin-top:-50px;">
-<img src="/img/logo.png" width="100" height="100" border="0" />
+<a href="/"><img src="/img/logo.png" width="100" height="100" border="0" /></a>
 </div>
 <div id="main_navigation">
 <table width="980" border="0" cellspacing="0" cellpadding="5" align="center">  
   <tr>
-    <td width="200" align="center" valign="middle"><img src="/img/logo.png" width="150" height="150" border="0" /></td>
+    <td width="200" align="center" valign="middle"><a href="/"><img src="/img/logo.png" width="150" height="150" border="0" /></a></td>
     <td align="right" width="770"> <div id="navbar" role="banner" class="navbar" style="width: 405px;">
  <?php if ($primary_nav || $secondary_nav || !empty($page['navigation'])): ?>
  	<div class="navbar-inner">
