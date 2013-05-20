@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <?php print $head; ?>
   <title><?php print $head_title; ?></title>
-</script>
 <link href="http://www.fortaleza.pr.gov/sites/all/themes/bootstrap/bootstrap/css/gotham.css" rel="stylesheet" type="text/css">
   <?php print $styles; ?>
   <?php print $scripts; ?>
