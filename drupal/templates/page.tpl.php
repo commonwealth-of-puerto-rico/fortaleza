@@ -157,6 +157,7 @@
     <td><a href="http://www.twitter.com/fortalezapr" target="_blank"><img src="/img/twitter_mailchimp.png" alt="Haz clic aquí para acceder a la página oficial de La Fortaleza en Twitter" width="90" height="50" border="0" /></a></td>
   </tr>
 </table>
+<div class="site-wide-rss"><a href="/rss.xml" title="Subscribe to La Fortaleza's site-wide RSS feed"><img typeof="foaf:Image" src="/misc/feed.png" width="16" height="16" alt="Subscribe to La Fortaleza's site-wide RSS feed" /></a></div>
 </aside>
     <!-- /#sidebar-second -->
   <div align="center">
