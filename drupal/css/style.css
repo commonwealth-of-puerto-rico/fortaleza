@@ -279,3 +279,11 @@ e.g. multipage*/
 .form-actions{
   clear: both;
 }
+
+
+
+/* Overrides */
+a.feed-icon {
+  display: none;
+}
+
