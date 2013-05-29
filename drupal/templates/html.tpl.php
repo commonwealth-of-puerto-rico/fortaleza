@@ -52,6 +52,6 @@
   <?php print $page_bottom; ?>
 </div>
 <div id="footer_art" class="whitelink"><div style="background-image:url(/img/escudo.png); background-position:top center; background-repeat:no-repeat; height:150px; z-index:-1;"><div style="padding-top:90px;"><br/>
-<span class="whitelink_sm">DESARROLLADO EN LA PLATAFORMA ABIERTA DE <a href="http://www.drupal.org" target="_blank">DRUPAL</a></span></div></div></div>
+<span class="whitelink_sm">DESARROLLADO EN LA PLATAFORMA ABIERTA DE <a href="http://www.drupal.org" target="_blank">DRUPAL</a> | <a href="https://github.com/commonwealth-of-puerto-rico/fortaleza.git" target="_blank">AYÚDENOS A MEJORAR EL CÓDIGO EN GITHUB</a></span></div></div></div>
 </body>
 </html>
