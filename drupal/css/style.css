@@ -279,3 +279,14 @@ e.g. multipage*/
 .form-actions{
   clear: both;
 }
+
+
+
+/* Overrides */
+a.feed-icon {
+  display: none;
+}
+
+div.site-wide-rss {
+  text-align: center;
+}
