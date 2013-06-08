@@ -146,7 +146,7 @@
 	?>
     </div>
     <br/>
-    <button class="btn btn-small" type="button"><a href="http://www.flickr.com/photos/91802318@N07/ ">Ver fotos adicionales</a></button>
+    <a href="http://www.flickr.com/photos/91802318@N07/" class="btn btn-small">Ver fotos adicionales</a>
     <?php if ($page['sidebar_first']): ?>
         <?php print render($page['sidebar_first']); ?>
     <?php endif; ?>

@@ -279,3 +279,13 @@ e.g. multipage*/
 .form-actions{
   clear: both;
 }
+
+/* Overrides to search form elements */
+
+#block-search-form .controls {
+  display: inline-block;
+}
+
+#block-search-form #edit-submit.btn {
+  margin: 0 0 10px 0;
+}
