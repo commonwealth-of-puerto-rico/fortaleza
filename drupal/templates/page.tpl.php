@@ -24,7 +24,7 @@
 <div class="container">
 
     <?php
-    $includeFile = file_get_contents('http://api.ustream.tv/json/channel/fortalezapr/getValueOf/status?key=4D1869A6089C22AC737C29A041DE4ACC');
+    /* $includeFile = file_get_contents('http://api.ustream.tv/json/channel/fortalezapr/getValueOf/status?key=4D1869A6089C22AC737C29A041DE4ACC');
     $json_output = json_decode($includeFile);
 	$live = $json_output->results;
 	
@@ -41,7 +41,7 @@
                 <td align="right" valign="middle" bgcolor="#333333"><div align="left" style="width:180px; float:left;"><img src="/img/endirecto_text.png" width="180" height="24" /></div><div class="live_text_link"><a href="/envivo" class="live_text_link"><?php echo($text); ?></a></div></td>
               </tr>
         </table><br/><br/></div>
-    <?php } ?>
+    <?php } */ ?>
 
 <?php if ($page['highlighted']): ?>
         <div class="highlighted hero-unit"><?php print render($page['highlighted']); ?></div>
